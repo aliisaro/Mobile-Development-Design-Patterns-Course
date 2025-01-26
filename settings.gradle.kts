@@ -3,3 +3,5 @@ plugins {
 }
 rootProject.name = "MobileDevDesignPatterns"
 include("Lab1")
+include("Lab2")
+include("Lab3")
